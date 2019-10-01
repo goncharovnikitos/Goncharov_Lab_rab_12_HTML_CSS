@@ -1,0 +1,17 @@
+h1,h2,h3{
+font-size:20pt;
+font-family: "Arial";
+color:darkgreen;
+text-align: center;
+}
+p{
+text-align:justify;
+font-size:14pt;
+font-family:"Helvetica;";
+text-indent:1cm;
+/*font-style: italic;*/
+}
+.foto{
+display: block;
+margin: 0 auto;
+}
